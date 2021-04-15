@@ -20,6 +20,7 @@ module.exports=()=>{
      }
    
      const firebaseApp = fire
+     return firebaseApp
     }   
  
  
